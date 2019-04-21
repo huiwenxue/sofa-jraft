@@ -31,4 +31,10 @@ public class MyTest {
     public void test05(){
         LOGGER.info("dev branch");
     }
+
+
+    @Test
+    public void test06(){
+        LOGGER.info("dev branch");
+    }
 }
