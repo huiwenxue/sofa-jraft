@@ -26,4 +26,9 @@ public class MyTest {
     public void test04(){
         LOGGER.error("new branch");
     }
+
+    @Test
+    public void test05(){
+        LOGGER.info("dev branch");
+    }
 }
