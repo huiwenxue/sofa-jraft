@@ -20,4 +20,10 @@ public class MyTest {
     public void test03(){
         LOGGER.error("this is my third test");
     }
+
+
+    @Test
+    public void test04(){
+        LOGGER.error("new branch");
+    }
 }
