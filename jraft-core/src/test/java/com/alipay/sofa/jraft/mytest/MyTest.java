@@ -10,4 +10,9 @@ public class MyTest {
     public void test01(){
         LOGGER.error("this is my first test");
     }
+
+    @Test
+    public void test02(){
+        LOGGER.error("this is my second test");
+    }
 }
