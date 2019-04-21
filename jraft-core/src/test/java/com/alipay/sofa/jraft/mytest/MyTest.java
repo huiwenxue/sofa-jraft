@@ -15,4 +15,9 @@ public class MyTest {
     public void test02(){
         LOGGER.error("this is my second test");
     }
+
+    @Test
+    public void test03(){
+        LOGGER.error("this is my third test");
+    }
 }
